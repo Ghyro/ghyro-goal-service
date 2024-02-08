@@ -1,1 +1,1 @@
-# ghyro-view-service
+# ghyro-goal-service
