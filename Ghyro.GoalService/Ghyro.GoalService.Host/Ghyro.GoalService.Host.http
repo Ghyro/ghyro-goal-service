@@ -1,0 +1,6 @@
+@Ghyro.GoalService.Host_HostAddress = http://localhost:5253
+
+GET {{Ghyro.GoalService.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
